@@ -1,0 +1,107 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 60px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #a82323;
+}
+.lead{
+font-family: 'Open Sans', sans-serif;
+font-family: 'Ravi Prakash', cursive;
+font-family: 'Lobster Two', cursive;
+font-family: 'Chewy', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Cuprum', sans-serif;
+color: #4c1313;
+font-size: 30px;
+}
+
+#bs-example-navbar-collapse-1{
+font-family: 'Open Sans', sans-serif;
+font-family: 'Ravi Prakash', cursive;
+font-family: 'Lobster Two', cursive;
+font-family: 'Cuprum', sans-serif;
+font-family: 'Chewy', cursive;
+ 
+}
+.list-group{
+   
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Cuprum', sans-serif;
+    font-family: 'Chewy', cursive;
+
+
+}
+
+#carousel-example-generic{
+    padding: 10px;
+      
+}
+span{
+    color: red;
+
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+.search-form{
+    margin: -30px;
+
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+  
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: blue;
+    background-color: #efdede;
+}
+
+.thumbnail {
+    padding: 10px;
+   border: ridge;
+   color: #6d2424;
+   display: ;
+
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+   
+
+}
+
+
+}
+footer {
+    margin: 50px 0;
+}
